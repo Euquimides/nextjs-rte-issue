@@ -5,6 +5,7 @@ import Box from "@mui/material/Box";
 import {
   ExperienceBuilder,
   RenderField,
+  RenderComponents,
 } from "@craftercms/experience-builder/react";
 import { getInitialProps } from "../lib/api";
 import { useCrafterAppContext } from "./_app";
