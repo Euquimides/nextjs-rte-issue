@@ -1,11 +1,14 @@
-import * as React from 'react';
-import Container from '@mui/material/Container';
-import Typography from '@mui/material/Typography';
-import Box from '@mui/material/Box';
-import { ExperienceBuilder, RenderField } from '@craftercms/experience-builder/react';
-import { getInitialProps } from '../lib/api';
-import { useCrafterAppContext } from './_app';
-import Footer from '../components/Footer';
+import * as React from "react";
+import Container from "@mui/material/Container";
+import Typography from "@mui/material/Typography";
+import Box from "@mui/material/Box";
+import {
+  ExperienceBuilder,
+  RenderField,
+} from "@craftercms/experience-builder/react";
+import { getInitialProps } from "../lib/api";
+import { useCrafterAppContext } from "./_app";
+import Footer from "../components/Footer";
 
 export default function About({ model }) {
   const { isAuthoring } = useCrafterAppContext();
@@ -24,6 +27,11 @@ export default function About({ model }) {
           />
         </Box>
       </Container>
+      <RenderComponents
+        contentTypeMap={contentTypeMap}
+        model={model}
+        fieldId="selector_o"
+      />
       <Footer />
     </ExperienceBuilder>
   );
