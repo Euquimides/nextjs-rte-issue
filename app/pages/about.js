@@ -8,7 +8,7 @@ import {
   RenderComponents,
 } from "@craftercms/experience-builder/react";
 import { getInitialProps } from "../lib/api";
-import { useCrafterAppContext } from "./_app";
+import { contentTypeMap, useCrafterAppContext } from "./_app";
 import Footer from "../components/Footer";
 
 export default function About({ model }) {
