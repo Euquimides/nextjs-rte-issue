@@ -10,7 +10,7 @@
   <createdDate>2023-04-04T14:27:32.071Z</createdDate>
   <createdDate_dt>2023-04-04T14:27:32.071Z</createdDate_dt>
   <lastModifiedDate>2023-04-04T14:27:32.071Z</lastModifiedDate>
-  <lastModifiedDate_dt>2024-02-08T20:57:09.575Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2024-02-08T20:59:35.904Z</lastModifiedDate_dt>
   <content_html><![CDATA[<h2>Readme</h2>
 <ol>
 <li>In the CrafterCMS site sandbox directory, you'll find a directory called app, which is the Next.js app. Visit that directory on your terminal and run `yarn`</li>
@@ -20,5 +20,10 @@
 <li>Search for "<strong>Proxy Config</strong>"</li>
 <li>Comment line 58 and uncomment line 59</li>
 <li>Close the pop-up and refresh the page. You'll now see the next.js application in this area.</li>
-</ol>]]></content_html>
+</ol>
+<ul>
+<li>test1</li>
+<li>test2</li>
+<li>test3</li>
+</ul>]]></content_html>
 </component>
