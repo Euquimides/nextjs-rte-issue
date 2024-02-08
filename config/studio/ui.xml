@@ -385,6 +385,19 @@
                     
                     </tinymceOptions>
                 </setup>
+                <setup id="text_block">
+                    <tinymceOptions>
+                        {
+                        "menubar": false,
+                        "theme": "silver",
+                        "plugins": "table toc advlist codesample lists editform link",
+                        "extended_valid_elements": "",
+                        "valid_children": "",
+                        "toolbar": "formatselect forecolor | bold italic underline codesample | numlist bullist | link table",
+                        "block_formats": "Paragraph=p; Header 1=h1; Header 2=h2; Header 3=h3; Header 4=h4"
+                        }
+                    </tinymceOptions>
+                </setup>
             </setups>
         </configuration>
     </widget>
