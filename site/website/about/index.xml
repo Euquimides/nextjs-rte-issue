@@ -1,63 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/about</content-type>
-	<display-template/>
-	<no-template-required>true</no-template-required>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>f250</objectGroupId>
-	<objectId>f2502f10-30a3-4308-6a8c-e79356219b00</objectId>
-	<file-name>index.xml</file-name>
-	<folder-name>about</folder-name>
-	<internal-name>About</internal-name>
-	<navLabel>About Us</navLabel>
-	<placeInNav>true</placeInNav>
-	<orderDefault_f>3000</orderDefault_f>
-	<createdDate>2022-01-25T10:29:08.868Z</createdDate>
-	<createdDate_dt>2022-01-25T10:29:08.868Z</createdDate_dt>
-	<lastModifiedDate>2024-02-08T21:44:13.113Z</lastModifiedDate>
-	<lastModifiedDate_dt>2024-02-08T21:44:13.113Z</lastModifiedDate_dt>
-	<title_s>About Us</title_s>
-	<selector_o item-list="true">	<item inline="true">	<key>a0c60cd8-aa12-ac84-7c60-17deab0d8755</key>
-	<value>Test RTE</value>
-<component id="a0c60cd8-aa12-ac84-7c60-17deab0d8755">
-	<content-type>/component/rte</content-type>
-	<display-template>/templates/web/components/rte.ftl</display-template>
-	<no-template-required>true</no-template-required>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>a0c6</objectGroupId>
-	<objectId>a0c60cd8-aa12-ac84-7c60-17deab0d8755</objectId>
-	<file-name>a0c60cd8-aa12-ac84-7c60-17deab0d8755.xml</file-name>
-	<folder-name/>
-	<internal-name>Test RTE</internal-name>
-	<content_html>&lt;p&gt;Please enter &lt;strong&gt;&lt;a href="http://www.google.com"&gt;text &lt;/a&gt;&lt;/strong&gt;here. test&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;123&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;test&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;222&lt;/li&gt;
-&lt;li&gt;333&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;test&lt;/li&gt;
-&lt;li&gt;test2&lt;/li&gt;
-&lt;li&gt;test3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table style="width: 99.71%;"&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="width: 100%;"&gt;&lt;br /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="width: 100%;"&gt;&amp;nbsp;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content_html>
-	<createdDate>2024-02-08T21:44:18.156Z</createdDate>
-	<createdDate_dt>2024-02-08T21:44:18.156Z</createdDate_dt>
-	<lastModifiedDate>2024-02-08T21:44:18.156Z</lastModifiedDate>
-	<lastModifiedDate_dt>2024-02-08T21:44:18.156Z</lastModifiedDate_dt>
-</component>
-	</item></selector_o>
+  <content-type>/page/about</content-type>
+  <display-template/>
+  <no-template-required>true</no-template-required>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <objectGroupId>f250</objectGroupId>
+  <objectId>f2502f10-30a3-4308-6a8c-e79356219b00</objectId>
+  <file-name>index.xml</file-name>
+  <folder-name>about</folder-name>
+  <internal-name>About</internal-name>
+  <navLabel>About Us</navLabel>
+  <placeInNav>true</placeInNav>
+  <orderDefault_f>3000</orderDefault_f>
+  <createdDate>2022-01-25T10:29:08.868Z</createdDate>
+  <createdDate_dt>2022-01-25T10:29:08.868Z</createdDate_dt>
+  <lastModifiedDate>2024-02-08T21:44:13.113Z</lastModifiedDate>
+  <lastModifiedDate_dt>2024-02-08T22:06:17.429Z</lastModifiedDate_dt>
+  <title_s>About Us</title_s>
+  <selector_o item-list="true">
+    <item inline="true">
+      <key>a0c60cd8-aa12-ac84-7c60-17deab0d8755</key>
+      <value>Test RTE</value>
+      <component id="a0c60cd8-aa12-ac84-7c60-17deab0d8755">
+        <content-type>/component/rte</content-type>
+        <display-template>/templates/web/components/rte.ftl</display-template>
+        <no-template-required>true</no-template-required>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <objectGroupId>a0c6</objectGroupId>
+        <objectId>a0c60cd8-aa12-ac84-7c60-17deab0d8755</objectId>
+        <file-name>a0c60cd8-aa12-ac84-7c60-17deab0d8755.xml</file-name>
+        <folder-name/>
+        <internal-name>Test RTE</internal-name>
+        <content_html><![CDATA[<p>Please enter <strong><a href="http://www.google.com">text </a></strong>here. test</p>
+<ul>
+<li><em><strong>123</strong></em></li>
+<li>test</li>
+</ul>
+<ol>
+<li>222</li>
+<li>333</li>
+</ol>
+<p>&nbsp;</p>
+<ol>
+<li>test</li>
+<li>test2</li>
+<li>test3</li>
+</ol>
+<table style="width: 99.71%;">
+<tbody>
+<tr>
+<td style="width: 100%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 100%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>]]></content_html>
+        <createdDate>2024-02-08T21:44:18.156Z</createdDate>
+        <createdDate_dt>2024-02-08T21:44:18.156Z</createdDate_dt>
+        <lastModifiedDate>2024-02-08T21:44:18.156Z</lastModifiedDate>
+        <lastModifiedDate_dt>2024-02-08T22:06:17.429Z</lastModifiedDate_dt>
+      </component>
+    </item>
+  </selector_o>
 </page>
