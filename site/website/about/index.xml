@@ -15,7 +15,7 @@
   <createdDate>2022-01-25T10:29:08.868Z</createdDate>
   <createdDate_dt>2022-01-25T10:29:08.868Z</createdDate_dt>
   <lastModifiedDate>2024-02-08T22:32:34.848Z</lastModifiedDate>
-  <lastModifiedDate_dt>2024-02-08T22:33:24.434Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2024-02-08T22:33:29.075Z</lastModifiedDate_dt>
   <title_s>About Us</title_s>
   <selector_o item-list="true">
     <item inline="true">
@@ -75,17 +75,17 @@
         <internal-name>Test2 RTE</internal-name>
         <content_html><![CDATA[<ul>
 <li><em>1</em></li>
-</ul>
-<p><em>2</em></p>
-<p><em>3</em></p>
-<p><em>4</em></p>
-<p><em>5</em></p>
-<p><em>6</em></p>
-<p><em>7</em></p>]]></content_html>
+<li><em>2</em></li>
+<li><em>3</em></li>
+<li><em>4</em></li>
+<li><em>5</em></li>
+<li><em>6</em></li>
+<li><em>7</em></li>
+</ul>]]></content_html>
         <createdDate>2024-02-08T22:32:44.516Z</createdDate>
         <createdDate_dt>2024-02-08T22:32:44.516Z</createdDate_dt>
         <lastModifiedDate>2024-02-08T22:32:44.516Z</lastModifiedDate>
-        <lastModifiedDate_dt>2024-02-08T22:33:24.434Z</lastModifiedDate_dt>
+        <lastModifiedDate_dt>2024-02-08T22:33:29.075Z</lastModifiedDate_dt>
       </component>
     </item>
   </selector_o>
